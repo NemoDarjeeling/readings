@@ -114,4 +114,4 @@
 经济学的公理不是事实，而是从人类的行为，经过竞争和自然淘汰的左右，反推出来而求得
 
 ![stigler](stigler.jpg)
-![](image.png)
+![changs_ds](changs_ds.jpg)
